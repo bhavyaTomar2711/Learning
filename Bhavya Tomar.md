@@ -27,3 +27,24 @@ On Day 1, create yours by copying the grid sections of `../06-competency-matrix.
 | M17 Working in a large codebase |2 | | | | | |
 | M18 Time, scheduling, background work |1 | | | | | |
 | M19 Caching and rate limiting |2 | | | | | |
+
+
+## Stack familiarity
+
+Separate from the concepts. Same 0 to 3 scale, where 3 means "I could be given a ticket in this stack with no ramp-up".
+
+| Stack | Day 1 | Day 10 | Month 1 | Month 2 | Month 3 | Notes |
+|---|---|---|---|---|---|---|
+| Java and Spring Boot |1 | | | | | |
+| Python and FastAPI |3 | | | | | |
+| LangGraph and LLM tooling |3 | | | | | |
+| Node and TypeScript on the server |3 | | | | | |
+| React (CRA and Material UI) |3 | | | | | |
+| Next.js |3 | | | | | |
+| MySQL |1 | | | | | |
+| PostgreSQL and Supabase |2 | | | | | |
+| Kafka |1 | | | | | |
+| Docker and Compose |1 | | | | | |
+| Linux and shell |2 | | | | | |
+| Coolify, Cloudflare, Tailscale (after Day 8) | | | | | | |
+| Prometheus, Loki, Grafana (after Day 8) | | | | | | |
